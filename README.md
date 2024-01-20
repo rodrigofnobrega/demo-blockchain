@@ -1,3 +1,6 @@
+# demo-blockchain
+Projeto simplificado de uma blockchain bitcoin da disciplina Blockchain e Aplicações Descentralizadas escrita em Python utilizando Flask para a API de comunicação entre os nós.
+
 ## Descrição
 
 A API precisará implementa 6 *end-points*:
